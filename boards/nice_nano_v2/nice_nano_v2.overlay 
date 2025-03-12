@@ -1,0 +1,15 @@
+/ {
+    keyscan {
+        /* Custom row pins: using gpio0 pins 10-13 */
+        row-gpios = <&gpio0 10 GPIO_ACTIVE_LOW>,
+                    <&gpio0 11 GPIO_ACTIVE_LOW>,
+                    <&gpio0 12 GPIO_ACTIVE_LOW>,
+                    <&gpio0 13 GPIO_ACTIVE_LOW>;
+                    
+        /* Custom column pins: using gpio0 pins 14-17 */
+        col-gpios = <&gpio0 14 GPIO_ACTIVE_LOW>,
+                    <&gpio0 15 GPIO_ACTIVE_LOW>,
+                    <&gpio0 16 GPIO_ACTIVE_LOW>,
+                    <&gpio0 17 GPIO_ACTIVE_LOW>;
+    };
+};
