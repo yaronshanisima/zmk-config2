@@ -11,7 +11,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: zmk-pmw3660-driver
+    - name: zmk-pmw3360-driver 
       remote: trentrand
       revision: main
   self:
