@@ -1,5 +1,7 @@
 manifest:
   remotes:
+    - name: inorichi
+      url-base: https://github.com/inorichi
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     # Additional modules containing boards/shields/custom code can be listed here as well
