@@ -20,6 +20,7 @@
         &kp F1   &kp A &kp S &kp D &kp F &kp G
         &kp LCTRL &kp Z &kp X &kp C &kp V &kp E
         &kp SPACE &kp SPACE &kp SPACE &kp SPACE &kp SPACE &kp SPACE
+        &kp SPACE
         >;
                 };
              
