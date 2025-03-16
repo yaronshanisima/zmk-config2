@@ -20,7 +20,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: kaka_left
-  - board: nice_nano_v2
-    shield: kaka_right
+    shield: kaka
 

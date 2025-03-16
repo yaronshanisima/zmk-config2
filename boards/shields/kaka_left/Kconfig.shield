@@ -1,5 +1,0 @@
-
-
-config SHIELD_KAKA_LEFT
-    def_bool $(shields_list_contains,kaka_left)
-

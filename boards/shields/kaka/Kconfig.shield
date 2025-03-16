@@ -1,0 +1,13 @@
+
+
+config SHIELD_KAKA_LEFT
+    def_bool $(shields_list_contains,kaka_left)
+
+
+# No whitespace after the comma or in your part name!
+config SHIELD_KAKA_LEFT
+    def_bool $(shields_list_contains,kaka_left)
+
+# No whitespace after the comma or in your part name!
+config SHIELD_KAKA_RIGHT
+    def_bool $(shields_list_contains,kaka_right)
