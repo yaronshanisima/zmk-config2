@@ -5,9 +5,6 @@
  */
 
 #include "kaka.dtsi" // The shared dtsi file is included in the overlay
-    &default_transform {
-        col-offset = <6>;
-    };
     &kscan0 {
         row-gpios
             = <&pro_micro 3 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
