@@ -23,4 +23,6 @@ include:
     shield: "kaka_left"
   - board:  nice_nano_v2
     shield: "kaka_right"
+  - board: nice_nano_v2
+    shield: settings_reset
 
