@@ -1,0 +1,12 @@
+file_format: "1"
+id: kaka
+name: Kaka
+type: shield
+url: https://github.com/yaronshanisima/zmk-config2
+requires: []
+exposes: []
+features:
+  - keys
+siblings:
+  - kaka_left
+  - kaka_right
