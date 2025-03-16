@@ -17,8 +17,8 @@
         &kp F7   &kp F9 &kp F10 &kp F11 &kp F12
         &kp N6   &kp N7 &kp N8 &kp N9 &kp N0 &kp MINUS
         &kp Y   &kp U &kp I &kp O &kp P &kp BSPC
-        &kp H   &kp J &kp K &kp L &kp F &kp SEMI
-        &kp N &kp M &kp COMMA &kp DOT &kp FSLH  &kp A
+        &kp H   &kp J &kp K &kp L &kp SEMI &kp ENTER
+        &kp N &kp M &kp COMMA &kp DOT &kp FSLH  &kp RSHIFT
         &kp SPACE &kp SPACE &kp SPACE &kp SPACE &kp SPACE &kp SPACE
         >;
                 };

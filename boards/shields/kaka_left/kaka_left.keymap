@@ -19,8 +19,8 @@
         &kp F2   &kp Q &kp W &kp E &kp R &kp T
         &kp F1   &kp A &kp S &kp D &kp F &kp G
         &kp LCTRL &kp Z &kp X &kp C &kp V &kp B
-        &kp SPACE &kp SPACE &kp SPACE &kp SPACE &kp SPACE &kp SPACE
-        &kp SPACE
+        &kp RIGHT &kp UP &kp SPACE &kp SPACE &kp SPACE &kp DOWN
+        &kp LEFT
         >;
                 };
              
