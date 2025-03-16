@@ -20,5 +20,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: kaka
+    shield: ["kaka_left", "kaka_right"]
 
