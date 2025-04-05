@@ -14,8 +14,5 @@ if SHIELD_KAKA_LEFT || SHIELD_KAKA_RIGHT
 config ZMK_SPLIT
     default y
 
-config CONFIG_ZMK_SLEEP
-    default y
-
 endif
 
